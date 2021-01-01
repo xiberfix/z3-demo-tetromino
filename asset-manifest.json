@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/z3-demo-tetromino/static/css/main.6cc0be34.chunk.css",
-    "main.js": "/z3-demo-tetromino/static/js/main.a36ce983.chunk.js",
-    "main.js.map": "/z3-demo-tetromino/static/js/main.a36ce983.chunk.js.map",
+    "main.js": "/z3-demo-tetromino/static/js/main.8943ceb2.chunk.js",
+    "main.js.map": "/z3-demo-tetromino/static/js/main.8943ceb2.chunk.js.map",
     "runtime-main.js": "/z3-demo-tetromino/static/js/runtime-main.132fef0d.js",
     "runtime-main.js.map": "/z3-demo-tetromino/static/js/runtime-main.132fef0d.js.map",
     "static/css/2.9efb3193.chunk.css": "/z3-demo-tetromino/static/css/2.9efb3193.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.9efb3193.chunk.css",
     "static/js/2.3a005192.chunk.js",
     "static/css/main.6cc0be34.chunk.css",
-    "static/js/main.a36ce983.chunk.js"
+    "static/js/main.8943ceb2.chunk.js"
   ]
 }
